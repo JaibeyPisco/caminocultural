@@ -1,0 +1,777 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fragmentos da Realidade",
+      "price": "130,00",
+      "alt": "",
+      "sale": "",
+      "rating": 4.5,
+      "url": "product-1.svg",
+      "best-seller": false,
+      "new-product": true,
+      "artist-id": "1"
+    },
+    {
+      "id": 2,
+      "name": "Mãe Natureza - Peça em madeira",
+      "price": "516,00",
+      "alt": "",
+      "sale": "430,00",
+      "rating": 4.5,
+      "url": "product-2.svg",
+      "best-seller": false,
+      "new-product": true,
+      "artist-id": "2"
+    },
+    {
+      "id": 3,
+      "name": "Flores em Repouso",
+      "price": "168,00",
+      "alt": "",
+      "sale": "140,00",
+      "rating": 3.5,
+      "url": "product-3.svg",
+      "best-seller": false,
+      "new-product": true,
+      "artist-id": "3"
+    },
+    {
+      "id": 4,
+      "name": "Vaso Arte em Cerâmica",
+      "price": "220,00",
+      "alt": "",
+      "sale": "",
+      "rating": 4.5,
+      "url": "product-4.svg",
+      "best-seller": false,
+      "new-product": true,
+      "artist-id": "4"
+    },
+    {
+      "id": 5,
+      "name": "Santo",
+      "price": "300,00",
+      "alt": "",
+      "sale": "",
+      "rating": 3.0,
+      "url": "totora.png",
+      "best-seller": true,
+      "new-product": false,
+      "artist-id": "1"
+    },
+    {
+      "id": 6,
+      "name": "Natureza Silenciosa",
+      "price": "145,00",
+      "alt": "",
+      "sale": "",
+      "rating": 4.0,
+      "url": "product-6.svg",
+      "best-seller": true,
+      "new-product": false,
+      "artist-id": "2"
+    },
+    {
+      "id": 7,
+      "name": "Vaso Geométrico",
+      "price": "254,00",
+      "alt": "",
+      "sale": "212,00",
+      "rating": 5.0,
+      "url": "product-7.svg",
+      "best-seller": true,
+      "new-product": false,
+      "artist-id": "3"
+    },
+    {
+      "id": 8,
+      "name": "Rio de Janeiro",
+      "price": "350,00",
+      "alt": "",
+      "sale": "212,00",
+      "rating": 4.5,
+      "url": "product-8.svg",
+      "best-seller": true,
+      "new-product": false,
+      "artist-id": "4"
+    },
+    {
+      "id": 9,
+      "name": "Abstração do Pensamento",
+      "price": "145,00",
+      "alt": "",
+      "sale": "",
+      "rating": 3.5,
+      "url": "product-9.svg",
+      "best-seller": false,
+      "new-product": false,
+      "artist-id": "1"
+    },
+    {
+      "id": 10,
+      "name": "Formas no Caos",
+      "price": "260,00",
+      "alt": "",
+      "sale": "240,00",
+      "rating": 4.7,
+      "url": "product-10.svg",
+      "best-seller": true,
+      "new-product": true,
+      "artist-id": "2"
+    },
+    {
+      "id": 11,
+      "name": "Comunidade",
+      "price": "180",
+      "alt": "",
+      "sale": "",
+      "rating": 5.0,
+      "url": "product-11.svg",
+      "best-seller": false,
+      "new-product": true,
+      "artist-id": "3"
+    },
+    {
+      "id": 12,
+      "name": "Multidão",
+      "price": "499,00",
+      "alt": "",
+      "sale": "",
+      "rating": 3.9,
+      "url": "product-12.svg",
+      "best-seller": true,
+      "new-product": true,
+      "artist-id": "4"
+    },
+    {
+      "id": 13,
+      "name": "Essência Africana",
+      "price": "7500,00",
+      "alt": "",
+      "sale": "5400,00",
+      "rating": 4.8,
+      "url": "product-13.svg",
+      "best-seller": false,
+      "new-product": false,
+      "artist-id": "1"
+    },
+    {
+      "id": 14,
+      "name": "Cultura",
+      "price": "8500,00",
+      "alt": "",
+      "sale": "7000,00",
+      "rating": 5.0,
+      "url": "product-14.svg",
+      "best-seller": false,
+      "new-product": false,
+      "artist-id": "2"
+    },
+    {
+      "id": 15,
+      "name": "Morro",
+      "price": "1960,00",
+      "alt": "",
+      "sale": "899,90",
+      "rating": 4.3,
+      "url": "product-15.svg",
+      "best-seller": true,
+      "new-product": false,
+      "artist-id": "3"
+    },
+    {
+      "id": 16,
+      "name": "Aves Brasileiras",
+      "price": "750,00",
+      "alt": "",
+      "sale": "437,95",
+      "rating": 3.3,
+      "url": "product-16.svg",
+      "best-seller": false,
+      "new-product": true,
+      "artist-id": "4"
+    }
+  ],
+  "clients": [
+    {
+      "id": "1",
+      "name": "Maria F.",
+      "comment": "A Artesania é minha loja favorita para encontrar peças artesanais únicas. Sempre encontro presentes especiais para amigos e familiares aqui",
+      "rating": 5.0
+    },
+    {
+      "id": "2",
+      "name": "Ricardo A.",
+      "comment": "Tenho um imenso apreço pela excelência dos produtos da Artesania. Sua gama diversificada de arte local e artesanato é verdadeiramente impressionante, e sinto uma grande satisfação em contribuir para o apoio a artistas independentes.",
+      "rating": 5.0
+    },
+    {
+      "id": "3",
+      "name": "Pedro R.",
+      "comment": "Eu realmente valorizo a qualidade dos produtos da Artesania. Eles têm uma seleção incrível de arte local e artesanato, e eu adoro apoiar artistas independentes.",
+      "rating": 5.0
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Marcio Almeida",
+      "artist-bio": "Marcio é um pintor contemporâneo conhecido por suas obras abstratas que retratam emoções humanas.",
+      "independent-artist": true,
+      "rating": 4.8,
+      "sales": 1200,
+      "artist-profile-url": "artist-id-1",
+      "tag-arts": [
+        "Abstrato",
+        "Emoções",
+        "Cores Vivas"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rafaela Oliveira",
+      "artist-bio": "Rafaela é um escultora especializada em obras de arte feitas a partir de materiais reciclados.",
+      "independent-artist": true,
+      "rating": 4.5,
+      "sales": 800,
+      "artist-profile-url": "artist-id-2",
+      "tag-arts": [
+        "Escultura",
+        "Reciclagem",
+        "Arte Sustentável"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Marina Santos",
+      "artist-bio": "Marina é uma fotógrafa premiada por suas imagens emocionais que retratam a natureza.",
+      "independent-artist": true,
+      "rating": 4.9,
+      "sales": 1500,
+      "artist-profile-url": "artist-id-3",
+      "tag-arts": [
+        "Fotografia",
+        "Natureza",
+        "Paisagens"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pedro Costa",
+      "artist-bio": "Pedro é um artista digital que cria ilustrações surreais e futuristas.",
+      "independent-artist": true,
+      "rating": 4.7,
+      "sales": 1100,
+      "artist-profile-url": "artist-id-4",
+      "tag-arts": [
+        "Arte Digital",
+        "Ilustração",
+        "Surrealismo"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Fábio Ferreira",
+      "artist-bio": "Fábio é uma artesão conhecido por suas peças únicas de cerâmica feitas à mão.",
+      "independent-artist": true,
+      "rating": 4.6,
+      "sales": 950,
+      "artist-profile-url": "artist-id-5",
+      "tag-arts": [
+        "Cerâmica",
+        "Artesanato",
+        "Feito à Mão"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Gustavo Silva",
+      "artist-bio": "Gustavo é um músico talentoso que compõe trilhas sonoras para filmes e jogos.",
+      "independent-artist": true,
+      "rating": 4.9,
+      "sales": 1300,
+      "artist-profile-url": "artist-id-6",
+      "tag-arts": [
+        "Música",
+        "Trilha Sonora",
+        "Composição"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Camila Ribeiro",
+      "artist-bio": "Camila é uma escritora que cria poesias e contos inspirados em experiências pessoais.",
+      "independent-artist": true,
+      "rating": 4.8,
+      "sales": 1050,
+      "artist-profile-url": "artist-id-7",
+      "tag-arts": [
+        "Escrita Criativa",
+        "Poesia",
+        "Contos"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Lucas Gonçalves",
+      "artist-bio": "Lucas é um ator versátil conhecido por suas performances no teatro e no cinema.",
+      "independent-artist": true,
+      "rating": 4.7,
+      "sales": 1000,
+      "artist-profile-url": "artist-id-8",
+      "tag-arts": [
+        "Atuação",
+        "Teatro",
+        "Cinema"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Juliana Lima",
+      "artist-bio": "Juliana é uma bailarina renomada por suas coreografias inovadoras e expressivas.",
+      "independent-artist": true,
+      "rating": 4.9,
+      "sales": 1200,
+      "artist-profile-url": "artist-id-9",
+      "tag-arts": [
+        "Dança",
+        "Ballet",
+        "Coreografia"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Diego Fernandes",
+      "artist-bio": "Diego é um designer gráfico que cria obras modernas e minimalistas.",
+      "independent-artist": true,
+      "rating": 4.6,
+      "sales": 900,
+      "artist-profile-url": "artist-id-10",
+      "tag-arts": [
+        "Design Gráfico",
+        "Minimalismo",
+        "Modernidade"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Luiz Barbosa",
+      "artist-bio": "Luiz é um artista de rua famoso por suas pinturas murais inspiradoras.",
+      "independent-artist": true,
+      "rating": 4.8,
+      "sales": 1100,
+      "artist-profile-url": "artist-id-11",
+      "tag-arts": [
+        "Arte de Rua",
+        "Pintura Mural",
+        "Inspiração Urbana"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Bruna Oliveira",
+      "artist-bio": "Bruna é uma cineasta premiada por seus documentários impactantes sobre questões sociais.",
+      "independent-artist": true,
+      "rating": 4.9,
+      "sales": 1250,
+      "artist-profile-url": "artist-id-12",
+      "tag-arts": [
+        "Cinema",
+        "Documentário",
+        "Questões Sociais"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Josino Santos",
+      "artist-bio": "Josino é um artista de performance que cria obras interativas e provocativas.",
+      "independent-artist": true,
+      "rating": 4.7,
+      "sales": 950,
+      "artist-profile-url": "artist-id-13",
+      "tag-arts": [
+        "Arte de Performance",
+        "Interatividade",
+        "Provocação"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Eduardo Lima",
+      "artist-bio": "Eduardo é um artista de grafite que transforma espaços urbanos com suas pinturas vibrantes.",
+      "independent-artist": true,
+      "rating": 4.8,
+      "sales": 1050,
+      "artist-profile-url": "artist-id-14",
+      "tag-arts": [
+        "Grafite",
+        "Arte Urbana",
+        "Transformação"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Fernando Costa",
+      "artist-bio": "Fernando é um artista multimídia que combina tecnologia e arte em suas instalações.",
+      "independent-artist": true,
+      "rating": 4.9,
+      "sales": 1150,
+      "artist-profile-url": "artist-id-15",
+      "tag-arts": [
+        "Arte Multimídia",
+        "Tecnologia",
+        "Instalações"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Gabriel Ferreira",
+      "artist-bio": "Gabriel é um arquiteto paisagista conhecido por suas criações harmoniosas e sustentáveis.",
+      "independent-artist": false,
+      "rating": 4.7,
+      "sales": 1000,
+      "artist-profile-url": "artist-id-16",
+      "tag-arts": [
+        "Arquitetura Paisagística",
+        "Harmonia",
+        "Sustentabilidade"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "José Gonçalves",
+      "artist-bio": "José é um artista têxtil que produz tapeçarias intricadas e detalhadas.",
+      "independent-artist": false,
+      "rating": 4.6,
+      "sales": 900,
+      "artist-profile-url": "artist-id-17",
+      "tag-arts": [
+        "Arte Têxtil",
+        "Tapeçaria",
+        "Detalhamento"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Erica Lima",
+      "artist-bio": "Erica é uma ilustradora de quadrinhos reconhecido por suas narrativas envolventes.",
+      "independent-artist": false,
+      "rating": 4.8,
+      "sales": 1100,
+      "artist-profile-url": "artist-id-18",
+      "tag-arts": [
+        "Ilustração de Quadrinhos",
+        "Narrativa",
+        "Envolvimento"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Joana Pereira",
+      "artist-bio": "Joana é uma artista de esculturas em madeira que retrata figuras humanas.",
+      "independent-artist": false,
+      "rating": 4.9,
+      "sales": 1200,
+      "artist-profile-url": "artist-id-19",
+      "tag-arts": [
+        "Escultura em Madeira",
+        "Figuras Humanas",
+        "Expressão"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Bianca Silva",
+      "artist-bio": "Bianca é uma pintora realista que retrata paisagens urbanas com grande detalhamento.",
+      "independent-artist": false,
+      "rating": 4.7,
+      "sales": 1000,
+      "artist-profile-url": "artist-id-20",
+      "tag-arts": [
+        "Pintura Realista",
+        "Paisagens Urbanas",
+        "Detalhamento"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Leonardo Oliveira",
+      "artist-bio": "Leonardo é um artista de colagem que cria composições surreais com recortes de revistas.",
+      "independent-artist": false,
+      "rating": 4.8,
+      "sales": 1050,
+      "artist-profile-url": "artist-id-21",
+      "tag-arts": [
+        "Arte de Colagem",
+        "Composição",
+        "Surrealismo"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Marcela Santos",
+      "artist-bio": "Marcela é uma artista gráfico que trabalha com arte vetorial e formas abstratas.",
+      "independent-artist": false,
+      "rating": 4.6,
+      "sales": 950,
+      "artist-profile-url": "artist-id-22",
+      "tag-arts": [
+        "Arte Vetorial",
+        "Abstração",
+        "Formas Abstratas"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Gabriel Fernandes",
+      "artist-bio": "Gabriel é um fotógrafo documentalista que capta a essência de diferentes culturas.",
+      "independent-artist": false,
+      "rating": 4.9,
+      "sales": 1250,
+      "artist-profile-url": "artist-id-23",
+      "tag-arts": [
+        "Fotografia Documental",
+        "Culturas",
+        "Essência"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Aline Silva",
+      "artist-bio": "Aline é uma escultora contemporânea que trabalha principalmente com metal.",
+      "independent-artist": false,
+      "rating": 4.7,
+      "sales": 1000,
+      "artist-profile-url": "artist-id-24",
+      "tag-arts": [
+        "Escultura Contemporânea",
+        "Metal",
+        "Expressão"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Paula Costa",
+      "artist-bio": "Paula é uma ilustradora infantil que cria personagens encantadores para livros.",
+      "independent-artist": false,
+      "rating": 4.8,
+      "sales": 1100,
+      "artist-profile-url": "artist-id-25",
+      "tag-arts": [
+        "Ilustração Infantil",
+        "Personagens Encantadores",
+        "Livros"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Quiteria Lima",
+      "artist-bio": "Quiteria é uma artista de arte urbana que produz intervenções artísticas em espaços públicos.",
+      "independent-artist": false,
+      "rating": 4.9,
+      "sales": 1200,
+      "artist-profile-url": "artist-id-26",
+      "tag-arts": [
+        "Arte Urbana",
+        "Intervenção Artística",
+        "Espaços Públicos"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Ricardo Oliveira",
+      "artist-bio": "Ricardo é um músico de jazz conhecido por suas performances cativantes e improvisações.",
+      "independent-artist": false,
+      "rating": 4.7,
+      "sales": 1050,
+      "artist-profile-url": "artist-id-27",
+      "tag-arts": [
+        "Música Jazz",
+        "Performance Cativante",
+        "Improvisação"
+      ]
+    }
+  ],
+  "path-anchor": [
+    {
+      "routerPageName": "home",
+      "listPathAncor": [
+        {
+          "acabou-de-chegar": "Acabou de chegar"
+        },
+        {
+          "mais-vendidos": "Mais vendidos"
+        },
+        {
+          "nossos-artistas": "Nossos artistas"
+        },
+        {
+          "rodape": "Rodapé"
+        }
+      ]
+    },
+    {
+      "routerPageName": "gallery-art",
+      "listPathAncor": [
+        {
+          "galeria": "Galeria"
+        },
+        {
+          "rodape": "Rodapé"
+        }
+      ]
+    },
+    {
+      "routerPageName": "gallery-art-artist",
+      "listPathAncor": [
+        {
+          "galeria": "Galeria"
+        },
+        {
+          "rodape": "Rodapé"
+        }
+      ]
+    },
+    {
+      "routerPageName": "gallery-profile-artist",
+      "listPathAncor": [
+        {
+          "galeria": "Galeria"
+        },
+        {
+          "rodape": "Rodapé"
+        }
+      ]
+    },
+    {
+      "routerPageName": "gallery",
+      "listPathAncor": [
+        {
+          "galeria": "Galeria"
+        },
+        {
+          "rodape": "Rodapé"
+        }
+      ]
+    },
+    {
+      "routerPageName": "order-page",
+      "listPathAncor": [
+        {
+          "encomenda": "Encomenda"
+        },
+        {
+          "detalhes-do-pedido": "Detalhes do pedido"
+        },
+        {
+          "rodape": "Rodapé"
+        }
+      ]
+    },
+    {
+      "routerPageName": "order-shipping",
+      "listPathAncor": [
+        {
+          "obrigado": "Obrigado"
+        },
+        {
+          "resumo-da-encomenda": "Resumo da encomenda"
+        },
+        {
+          "rodape": "Rodapé"
+        }
+      ]
+    },
+    {
+      "routerPageName": "dashboard",
+      "listPathAncor": [
+        {
+          "encomendas": "Encomendas"
+        },
+        {
+          "faturadas": "Encomendas faturadas"
+        },
+        {
+          "enviadas": "Encomendas enviadas"
+        },
+        {
+          "rodape": "Rodapé"
+        }
+      ]
+    },
+    {
+      "routerPageName": "order-agreement",
+      "listPathAncor": [
+        {
+          "encomenda": "Encomenda"
+        },
+        {
+          "detalhes-do-pedido": "Detalhes do pedido"
+        },
+        {
+          "qual-o-valor-da-encomenda": "Valor da encomenda"
+        },
+        {
+          "rodape": "Rodapé"
+        }
+      ]
+    },
+    {
+      "routerPageName": "negotiation-chat",
+      "listPathAncor": [
+        {
+          "chat": "Chat"
+        },
+        {
+          "rodape": "Rodapé"
+        }
+      ]
+    },
+    {
+      "routerPageName": "payment",
+      "listPathAncor": [
+        {
+          "escolha-forma-de-pagamento": "Escolha forma de pagar"
+        },
+        {
+          "insira-informações-de-pagamento": "Informações do pagamento"
+        },
+        {
+          "detalhes-da-compra": "Detalhes da compra"
+        },
+        {
+          "rodape": "Rodapé"
+        }
+      ]
+    },
+    {
+      "routerPageName": "confirm-payment",
+      "listPathAncor": [
+        {
+          "pagamento-confirmado": "Pagamento confirmado"
+        },
+        {
+          "rodape": "Rodapé"
+        }
+      ]
+    },
+    {
+      "routerPageName": "order-agreement-confirmation-page",
+      "listPathAncor": [
+        {
+          "encomendas": "Encomendas"
+        },
+        {
+          "faturadas": "Encomendas faturadas"
+        },
+        {
+          "enviadas": "Encomendas enviadas"
+        },
+        {
+          "rodape": "Rodapé"
+        }
+      ]
+    }
+  ]
+}
